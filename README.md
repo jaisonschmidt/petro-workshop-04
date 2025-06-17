@@ -16,6 +16,9 @@ GitHub é uma plataforma baseada na web que utiliza o Git como sistema de contro
 - **Colaboração**: Ferramentas para revisão de código, discussões e gerenciamento de tarefas.
 - **Integrações**: Compatível com diversas ferramentas de CI/CD e automação.
 
+## GitHub Copilot
+O GitHub Copilot é uma ferramenta de inteligência artificial desenvolvida para auxiliar programadores durante o desenvolvimento de software. Ele sugere trechos de código, funções completas e até mesmo documentação, tornando o processo de programação mais rápido e eficiente. Integrado ao Visual Studio Code e outras IDEs, o Copilot aprende com bilhões de linhas de código público e pode ajudar tanto iniciantes quanto desenvolvedores experientes a encontrar soluções e boas práticas para seus projetos.
+
 ## Comandos básicos do Git
 Aqui estão alguns comandos essenciais para começar a usar o Git:
 
@@ -40,3 +43,4 @@ git push
 
 # Atualizar o repositório local com alterações do remoto
 git pull
+```
